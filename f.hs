@@ -1,3 +1,5 @@
+module F where
+
 import Data.Char (digitToInt)
 
 
